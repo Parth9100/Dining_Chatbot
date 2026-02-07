@@ -1,0 +1,26 @@
+Dish_ID,Name,Category,Price,Type,Prep_Time
+D001,Spring Rolls,Appetizers,8.99,Veg,10
+D002,Chicken Wings,Appetizers,12.99,Non-Veg,15
+D003,Garlic Bread,Appetizers,6.99,Veg,8
+D004,Soup of the Day,Appetizers,7.49,Veg,5
+D005,Shrimp Cocktail,Appetizers,14.99,Non-Veg,12
+D006,Grilled Salmon,Main Course,24.99,Non-Veg,25
+D007,Chicken Alfredo,Main Course,18.99,Non-Veg,20
+D008,Vegetable Stir Fry,Main Course,15.99,Veg,15
+D009,Beef Steak,Main Course,29.99,Non-Veg,30
+D010,Mushroom Risotto,Main Course,17.99,Veg,22
+D011,Vegan Buddha Bowl,Main Course,14.99,Vegan,12
+D012,Lamb Chops,Main Course,32.99,Non-Veg,28
+D013,Pasta Primavera,Main Course,16.99,Veg,18
+D014,Fish and Chips,Main Course,19.99,Non-Veg,20
+D015,Tofu Curry,Main Course,13.99,Vegan,15
+D016,Chocolate Lava Cake,Desserts,9.99,Veg,15
+D017,Cheesecake,Desserts,8.99,Veg,5
+D018,Ice Cream Sundae,Desserts,7.49,Veg,5
+D019,Fruit Sorbet,Desserts,6.99,Vegan,3
+D020,Tiramisu,Desserts,10.99,Veg,10
+D021,Fresh Lemonade,Beverages,4.99,Vegan,3
+D022,Iced Coffee,Beverages,5.49,Veg,5
+D023,Mango Smoothie,Beverages,6.99,Vegan,5
+D024,Green Tea,Beverages,3.49,Vegan,2
+D025,Sparkling Water,Beverages,2.99,Vegan,1

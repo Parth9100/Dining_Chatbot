@@ -1,0 +1,12 @@
+{
+    "gemini": {
+        "api_key": "AIzaSyBhzzeUph-E_Nc-4nGPLC9AMyNYYPcnB0Y",
+        "model": "gemini-2.0-flash"
+    },
+    "twilio": {
+        "enabled": false
+    },
+    "email": {
+        "enabled": false
+    }
+}
